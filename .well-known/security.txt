@@ -1,0 +1,4 @@
+Contact: mailto:security@miamilagoon.example
+Expires: 2027-07-05T19:29:56.662Z
+Preferred-Languages: en, de, fr
+Canonical: https://miamilagoon.onrender.com/.well-known/security.txt
